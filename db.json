@@ -2,15 +2,18 @@
   "banner":[
     {
       "id":1,
-      "url":"https://i.ibb.co/x253t3V/banner.jpg"
+      "image":"https://i.ibb.co/x253t3V/banner.jpg",
+      "url": "/promo/valentine"
     },
     {
       "id":2,
-      "url":"https://i.ibb.co/x819hcX/banner3.jpg"
+      "image":"https://i.ibb.co/x819hcX/banner3.jpg".
+      "url": "/flash-sale"
     },
     {
       "id":3,
-      "url":"https://i.ibb.co/Fm7npDt/banner2.jpg"
+      "image":"https://i.ibb.co/Fm7npDt/banner2.jpg".
+      "url": "/promo/nataru"
     }
   ]
 }
