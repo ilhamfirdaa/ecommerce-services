@@ -15,5 +15,23 @@
       "image":"https://i.ibb.co/Fm7npDt/banner2.jpg",
       "url": "/promo/nataru"
     }
+  ],
+  "review_photos":[
+    {
+      "id":1,
+      "image":"https://i.ibb.co/H7X3zS5/image-34.png",
+    },
+    {
+      "id":2,
+      "image":"https://i.ibb.co/wNDz6kz/image-31.png",
+    },
+    {
+      "id":3,
+      "image":"https://i.ibb.co/TMmq8JN/image-32.png",
+    },
+    {
+      "id":3,
+      "image":"https://i.ibb.co/ZSdMs9g/image-33.png",
+    }
   ]
 }
