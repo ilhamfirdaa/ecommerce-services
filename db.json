@@ -111,6 +111,17 @@
       "rating":5,
       "total_review":99,
       "image_url":"https://i.ibb.co/yNMdHh3/pack7.png"
+    },
+    {
+      "id":8,
+      "name":"Nivea",
+      "title":"NIVEA - Hand & Body",
+      "quantity":10,
+      "price":40000,
+      "discount":0,
+      "rating":0,
+      "total_review":0,
+      "image_url":"https://i.ibb.co/yNMdHh3/nivea3.png"
     }
   ]
 }
