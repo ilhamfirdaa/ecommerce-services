@@ -33,5 +33,84 @@
       "id":3,
       "image":"https://i.ibb.co/ZSdMs9g/image-33.png"
     }
+  ],
+  "list-by-brand":[
+    {
+      "id":1,
+      "name":"Nivea",
+      "title":"NIVEA - Hand & Body",
+      "quantity":100,
+      "price":20000,
+      "discount":10,
+      "rating":5,
+      "total_review":20,
+      "image_url":"https://i.ibb.co/yNMdHh3/nivea.png"
+    },
+    {
+      "id":2,
+      "name":"Nivea",
+      "title":"NIVEA - Hand & Body",
+      "quantity":0,
+      "price":25000,
+      "discount":5,
+      "rating":5,
+      "total_review":20,
+      "image_url":"https://i.ibb.co/yNMdHh3/pack.png"
+    },
+    {
+      "id":3,
+      "name":"Nivea",
+      "title":"NIVEA - Hand & Body",
+      "quantity":13,
+      "price":20000,
+      "discount":0,
+      "rating":4,
+      "total_review":90,
+      "image_url":"https://i.ibb.co/yNMdHh3/pack1.png"
+    },
+    {
+      "id":4,
+      "name":"Nivea",
+      "title":"NIVEA - Hand & Body",
+      "quantity":3,
+      "price":27000,
+      "discount":30,
+      "rating":5,
+      "total_review":35,
+      "image_url":"https://i.ibb.co/yNMdHh3/pack5.png"
+    },
+    {
+      "id":5,
+      "name":"Nivea",
+      "title":"NIVEA - Hand & Body",
+      "quantity":999,
+      "price":10000,
+      "discount":0,
+      "rating":3,
+      "total_review":10,
+      "image_url":"https://i.ibb.co/yNMdHh3/nivea2.png"
+    },
+    {
+      "id":6,
+      "name":"Nivea",
+      "title":"NIVEA - Hand & Body",
+      "quantity":50,
+      "price":30000,
+      "discount":15,
+      "rating":5,
+      "total_review":5,
+      "image_url":"https://i.ibb.co/yNMdHh3/pack9.png"
+    },
+    {
+      "id":7,
+      "name":"Nivea",
+      "title":"NIVEA - Hand & Body",
+      "quantity":1,
+      "price":50000,
+      "discount":50,
+      "rating":5,
+      "total_review":99,
+      "image_url":"https://i.ibb.co/yNMdHh3/pack7.png"
+    }
   ]
 }
