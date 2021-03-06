@@ -1,11 +1,6 @@
 {
   "banner":[
     {
-      "id":1,
-      "image":"https://i.ibb.co/x253t3V/banner.jpg",
-      "url":"/promo/valentine"
-    },
-    {
       "id":2,
       "image":"https://i.ibb.co/x819hcX/banner3.jpg",
       "url":"/flash-sale"
